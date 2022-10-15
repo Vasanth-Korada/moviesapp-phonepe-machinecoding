@@ -1,3 +1,6 @@
+/*Injector File for dependency injection*/
+
+
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:movies_app_phonepe/features/moviedb/data/data_source/movie_data_source.dart';
